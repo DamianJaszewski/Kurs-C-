@@ -8,13 +8,13 @@
 
 # Kalkulator - instrukcje wyboru
 ## Spis treści
-* [Instrukcja if-else](#Instrukcja_if-else)
+* [Instrukcja](#Instrukcja_if-else)
 * [Instrukcja switch](#Instrukcja_switch)
 * [Obsługa błędów](#Obsługa_błędów)
 * [Zadania](#Zadania)
 * [Link do kursu](#Link_do_kursu)
 <a name="Instrukcja_if-else"/>
-## Instrukcja if-else
+## Instrukcja
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
 ```ruby  
