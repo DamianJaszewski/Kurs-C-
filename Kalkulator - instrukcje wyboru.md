@@ -60,7 +60,7 @@ Komunikat błędu - informuje nas o błędzie w kodzie i może uruchomić ostatn
 <a name="Zadania"/>
 
 ## Zadania
-Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
+1. Pobierz od użytkownika znak działania, wykorzystaj intrukcję if-else, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
 
 <details>
   <summary>Pokaż rozwiązanie</summary>
@@ -91,7 +91,7 @@ Console.ReadKey();
  ```
 </details>
 
-Pobierz od użytkownika znak działania, wykorzystaj intrukcję switch, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.  
+2. Pobierz od użytkownika znak działania, wykorzystaj intrukcję switch, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.  
 
 <details>
   <summary>Pokaż rozwiązanie</summary>
