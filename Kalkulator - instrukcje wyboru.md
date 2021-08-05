@@ -1,6 +1,6 @@
 
 ##### Table of Contents  
-[Head ers](#headers)  
+[Head ers](#head ers)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
