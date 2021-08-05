@@ -13,7 +13,7 @@
 * [Obsługa błędów](#Obsługa_błędów)
 * [Zadania](#Zadania)
 * [Link do kursu](#Link_do_kursu)
-<a name="#Instrukcja_if-else"/>
+<a name="Instrukcja_if-else"/>
 ## Instrukcja if-else
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
