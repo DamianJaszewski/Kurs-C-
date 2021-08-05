@@ -62,64 +62,64 @@ Komunikat błędu - informuje nas o błędzie w kodzie i może uruchomić ostatn
 ## Zadania
 1. Pobierz od użytkownika znak działania, wykorzystaj intrukcję if-else, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
 
-<details>
-  <summary>Pokaż rozwiązanie</summary>
-  
- ```csharp
-Console.WriteLine("Podaj działanie: ");
-string dzialanie = Console.ReadLine();
+    <details>
+      <summary>Pokaż rozwiązanie</summary>
 
-if (dzialanie == "*")
-{
-    wynik1 = x1 * y1;
-}
-else if(dzialanie == "/")
-{
-    wynik1 = x1 / y1;
-}
-else if(dzialanie == "+")
-{
-    wynik1 = x1 + y1;
-}
-else
-{
-    wynik1 = x1 - y1;
-}
+     ```csharp
+    Console.WriteLine("Podaj działanie: ");
+    string dzialanie = Console.ReadLine();
 
-Console.WriteLine(wynik1);
-Console.ReadKey();
- ```
-</details>
+    if (dzialanie == "*")
+    {
+        wynik1 = x1 * y1;
+    }
+    else if(dzialanie == "/")
+    {
+        wynik1 = x1 / y1;
+    }
+    else if(dzialanie == "+")
+    {
+        wynik1 = x1 + y1;
+    }
+    else
+    {
+        wynik1 = x1 - y1;
+    }
+
+    Console.WriteLine(wynik1);
+    Console.ReadKey();
+     ```
+    </details>
 
 2. Pobierz od użytkownika znak działania, wykorzystaj intrukcję switch, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.  
 
-<details>
-  <summary>Pokaż rozwiązanie</summary>
-  
- ```csharp
-Console.WriteLine("Podaj działanie: ");
-string dzialanie = Console.ReadLine();
+    <details>
+      <summary>Pokaż rozwiązanie</summary>
 
- switch (dzialanie)
-{
-    case "*":
-        wynik1 = x1 * y1;
-        break;
-    case "/":
-        wynik1 = x1 / y1;
-        break;
-    case "+":
-        wynik1 = x1 + y1;
-        break;
-    case "-":
-        wynik1 = x1 - y1;
-        break;
-}
+     ```csharp
+    Console.WriteLine("Podaj działanie: ");
+    string dzialanie = Console.ReadLine();
 
-Console.WriteLine(wynik1);
-Console.ReadKey();
- ```
-</details>
+     switch (dzialanie)
+    {
+        case "*":
+            wynik1 = x1 * y1;
+            break;
+        case "/":
+            wynik1 = x1 / y1;
+            break;
+        case "+":
+            wynik1 = x1 + y1;
+            break;
+        case "-":
+            wynik1 = x1 - y1;
+            break;
+    }
+
+    Console.WriteLine(wynik1);
+    Console.ReadKey();
+     ```
+    </details>
  
 <a name="Link_do_kursu"/>
 
