@@ -1,6 +1,6 @@
 # Kalkulator - instrukcje wyboru
 ## Spis treści
-* [Instrukcja](#Instrukcja_if-else)
+* [Instrukcja if-else](#Instrukcja_if-else)
 * [Instrukcja switch](#Instrukcja_switch)
 * [Obsługa błędów](#Obsługa_błędów)
 * [Zadania](#Zadania)
