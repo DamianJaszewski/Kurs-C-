@@ -12,7 +12,7 @@
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
 ```csharp 
-bool condition= true;
+bool condition = true;
 
 if (condition)
 {
@@ -31,7 +31,7 @@ else
 Instrukcja switch - na podstawie przypadku - `expression`, wybiera jeden z wielu bloków kodu i wykonuje daną instrukcję.
 
 ```csharp
-Int expression= x
+Int expression = x;
 
 switch(expression) 
 {
@@ -66,15 +66,28 @@ Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji
   <summary>Pokaż rozwiązanie</summary>
   
  ```csharp
-	if (condition)
-	{
-	Console.WriteLine("Zmienna przechowuje wartość "true" czyli z logiki prawdę.");
-	}
-	else
-	{
-	Console.WriteLine("Zmienna przechowuje wartość "false", czyli z logiki fałsz.");
-	}
-  ```
+            Console.WriteLine("Podaj działanie: ");
+            string dzialanie = Console.ReadLine();
+
+            if (dzialanie == "*")
+            {
+                wynik1 = x1 * y1;
+            }
+            else if(dzialanie == "/")
+            {
+                wynik1 = x1 / y1;
+            }
+            else if(dzialanie == "+")
+            {
+                wynik1 = x1 + y1;
+            }
+            else
+            {
+                wynik1 = x1 - y1;
+            }
+
+            Console.WriteLine(wynik1);
+ ```
 </details>
 
 <a name="Link_do_kursu"/>
