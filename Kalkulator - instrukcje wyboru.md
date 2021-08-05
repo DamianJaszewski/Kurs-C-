@@ -62,9 +62,8 @@ Komunikat błędu - informuje nas o błędzie w kodzie i może uruchomić ostatn
 ## Zadania
 Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
 
-# A collapsible section containing code
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Pokaż rozwiązanie</summary>
   
   ```javascript
     function logSometing(something) {
