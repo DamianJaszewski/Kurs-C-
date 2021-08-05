@@ -1,10 +1,10 @@
 
 ##### Table of Contents  
-[Head ers](#headers)  
+[Head ers](#heade_rs)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
-## Headers
+<a name="heade_rs"/>
+## Head ers
 
 # Kalkulator - instrukcje wyboru
 ## Spis treści
