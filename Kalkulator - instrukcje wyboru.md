@@ -1,6 +1,14 @@
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 # Kalkulator - instrukcje wyboru
 ## Spis treści
-* [Instrukcja if-else](#instrukcja if-else)
+* [Instrukcja if-else](#Instrukcja if-else)
 * [Instrukcja switch](#Instrukcja switch)
 * [Obsługa błędów](#Obsługa błędów)
 * [Zadania](#Zadania)
