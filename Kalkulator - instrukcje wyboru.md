@@ -1,11 +1,3 @@
-
-##### Table of Contents  
-[Head ers](#heade_rs)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="heade_rs"/>
-## Head ers
-
 # Kalkulator - instrukcje wyboru
 ## Spis treści
 * [Instrukcja](#Instrukcja_if-else)
@@ -54,17 +46,32 @@ switch(expression)
     break;
 }
 ```
-[Dokumentacja w3schools - instrukcja switch](https://www.w3schools.com/cs/cs_switch.php)
+[Dokumentacja w3schools - instrukcja switch](https://www.w3schools.com/cs/cs_switch.php)<br>
 [Dokumentacja Microsoft - instrukcja switch](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/switch)
 
 <a name="Obsługa_błędów"/>
 
 ## Obsługa błędów
 
+Obsługa błędów - informuje o napotkanym błędzie. Po naciśnięciu w błąd program przeniesie nas do miejsca w którym on wsytępuje, chociaż nie zawsze tym sposobem dokłanie wskażę nam miejsce problemu. <br>
+
+Komunikat błędu - informuje nas o błędzie w kodzie i może uruchomić ostatnią działającą wersję programu przed naszymi zmianami. 
+
 <a name="Zadania"/>
 
 ## Zadania
 Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
+
+# A collapsible section containing code
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function logSometing(something) {
+      console.log(`Logging: ${something}`);
+    }
+  ```
+</details>
 
 <a name="Link_do_kursu"/>
 
