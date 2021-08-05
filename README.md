@@ -6,4 +6,4 @@ Zapraszam do zapoznania się z materiałami specjalnie przygotowanymi do kursu p
 [Materiały do kursu](https://github.com/DamianJaszewski/Kurs-C-sharp.wiki.git)
 
 ## Link do kursu
-[Poklikajmy](https://youtu.be/daIjsicyZBk)
+[Poklikajmy](https://youtube.com/playlist?list=PLx1_JD_bP0bkEaCuyJZS4CbrSMLpKnBhl)
