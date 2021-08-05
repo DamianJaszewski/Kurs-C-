@@ -1,18 +1,18 @@
 
 ##### Table of Contents  
-[Head ers](#head ers)  
+[Head ers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="head ers"/>
+<a name="headers"/>
 ## Headers
 
 # Kalkulator - instrukcje wyboru
 ## Spis treści
-* [Instrukcja if-else](#Instrukcja if-else)
-* [Instrukcja switch](#Instrukcja switch)
-* [Obsługa błędów](#Obsługa błędów)
+* [Instrukcja if-else](#Instrukcja_if-else)
+* [Instrukcja switch](#Instrukcja_switch)
+* [Obsługa błędów](#Obsługa_błędów)
 * [Zadania](#Zadania)
-* [Link do kursu](#Link do kursu)
+* [Link do kursu](#Link_do_kursu)
 <a name="instrukcja if-else"/>
 ## Instrukcja if-else
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
