@@ -31,6 +31,7 @@ else
 ```
 [Dokumentacja Microsoft - instrukcja if-else](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/if-else)
 
+<a name="Instrukcja_switch"/>
 ## Instrukcja switch
 Instrukcja switch - na podstawie przypadku - `expression`, wybiera jeden z wielu bloków kodu i wykonuje daną instrukcję.
 
