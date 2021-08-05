@@ -14,7 +14,9 @@
 * [Zadania](#Zadania)
 * [Link do kursu](#Link_do_kursu)
 <a name="Instrukcja_if-else"/>
-## Instrukcja
+
+## Head ers
+
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
 ```ruby  
