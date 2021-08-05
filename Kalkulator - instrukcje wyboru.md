@@ -3,7 +3,7 @@
 [Head ers](#head ers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="head ers"/>
 ## Headers
 
 # Kalkulator - instrukcje wyboru
