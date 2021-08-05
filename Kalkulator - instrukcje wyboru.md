@@ -11,7 +11,7 @@
 
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
-```c#  
+```csharp 
 bool condition= true;
 
 if (condition)
@@ -30,7 +30,7 @@ else
 ## Instrukcja switch
 Instrukcja switch - na podstawie przypadku - `expression`, wybiera jeden z wielu bloków kodu i wykonuje daną instrukcję.
 
-```c#
+```csharp
 Int expression= x
 
 switch(expression) 
@@ -65,7 +65,7 @@ Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji
 <details>
   <summary>Pokaż rozwiązanie</summary>
   
- ```c#
+ ```csharp
 	if (condition)
 	{
 	Console.WriteLine("Zmienna przechowuje wartość "true" czyli z logiki prawdę.");
