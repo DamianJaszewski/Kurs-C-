@@ -65,10 +65,15 @@ Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji
 <details>
   <summary>Pokaż rozwiązanie</summary>
   
-  ```javascript
-    function logSometing(something) {
-      console.log(`Logging: ${something}`);
-    }
+  ```c#
+   		if (condition)
+		{
+		    Console.WriteLine("Zmienna przechowuje wartość "true" czyli z logiki prawdę.");
+		}
+		else
+		{
+		    Console.WriteLine("Zmienna przechowuje wartość "false", czyli z logiki fałsz.");
+        }
   ```
 </details>
 
