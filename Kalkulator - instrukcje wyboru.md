@@ -1,41 +1,53 @@
 # Kalkulator - instrukcje wyboru
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Spis treści
+* [Instrukcja if-else](#Instrukcja if-else)
+* [Instrukcja switch](#Instrukcja switch)
+* [Obsługa błędów](#Obsługa błędów)
+* [Zadania](#Zadania)
+* [Link do kursu](#Link do kursu)
+## Instrukcja if-else
+Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
 
 ```ruby  
-private static String updateWeatherIcon(int condition){}
+bool condition= true;
+
+if (condition)
+{
+    Console.WriteLine("Zmienna przechowuje wartość "true" czyli z logiki prawdę.");
+}
+else
+{
+    Console.WriteLine("Zmienna przechowuje wartość "false", czyli z logiki fałsz.");
+}
 ```
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-	To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-	## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-	## Inspiration
-Add here credits. Project inspired by..., based on...
-	## Kurs
-[@Oglądaj dalej](https://youtu.be/daIjsicyZBk)
+[Dokumentacja Microsoft - instrukcja if-else](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/if-else)
+
+## Instrukcja switch
+Instrukcja switch - na podstawie przypadku - `expression`, wybiera jeden z wielu bloków kodu i wykonuje daną instrukcję.
+
+```ruby  
+Int expression= x
+
+switch(expression) 
+{
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+    break;
+}
+```
+[Dokumentacja w3schools - instrukcja switch](https://www.w3schools.com/cs/cs_switch.php)
+[Dokumentacja Microsoft - instrukcja switch](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/switch)
+
+## Obsługa błędów
+
+## Zadania
+Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
+
+## Link do kursu
+[Poklikajmy - podstawy C#](https://youtu.be/daIjsicyZBk)
