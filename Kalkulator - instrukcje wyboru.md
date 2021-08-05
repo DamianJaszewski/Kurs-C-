@@ -14,6 +14,7 @@
 * [Zadania](#Zadania)
 * [Link do kursu](#Link_do_kursu)
 <a name="Instrukcja_if-else"/>
+
 ## Instrukcja
 
 Instrukcja if-else - określa, która instrukcja ma być uruchamiana, na podstawie wartości wyrażenia logicznego.
@@ -33,6 +34,7 @@ else
 [Dokumentacja Microsoft - instrukcja if-else](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/if-else)
 
 <a name="Instrukcja_switch"/>
+
 ## Instrukcja switch
 Instrukcja switch - na podstawie przypadku - `expression`, wybiera jeden z wielu bloków kodu i wykonuje daną instrukcję.
 
@@ -56,12 +58,15 @@ switch(expression)
 [Dokumentacja Microsoft - instrukcja switch](https://docs.microsoft.com/pl-pl/dotnet/csharp/language-reference/keywords/switch)
 
 <a name="Obsługa_błędów"/>
+
 ## Obsługa błędów
 
 <a name="Zadania"/>
+
 ## Zadania
 Pobierz od użytkownika znak działania, wykorzystaj intrukcję if, w instrukcji umieść właściwe działanie matematyczne i wyświetl wynik.
 
 <a name="Link_do_kursu"/>
+
 ## Link do kursu
 [Poklikajmy - podstawy C#](https://youtu.be/daIjsicyZBk)
